@@ -1,0 +1,22 @@
+.girdContainer{
+    display: grid;
+    grid-template-columns: auto 1fr;
+}
+
+.girdContainer img {
+    display: block;    
+  }
+  
+
+.girdItem{
+    background-color: white;
+}
+
+.text{
+    padding-top: 200px;
+    padding-left: 70px;
+    padding-right: 60px;
+    text-align: left;
+    font-size: 36px;
+    color:   #22356F;  
+}

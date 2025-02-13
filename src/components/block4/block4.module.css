@@ -1,0 +1,37 @@
+.girdContainer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.girdItem{
+    padding-top: 85px;
+    padding-bottom: 200px;
+}
+
+
+
+.item1{
+    background-color: #22356F;
+    
+}
+
+.item2{
+    background-color: #0052C1;
+    
+}
+
+.item3{
+    background-color: #76B58B;
+
+}
+
+.text{
+    margin-left: 65px;
+    color: white;
+    font-size: 32px;
+}
+
+.lineTop{
+    margin-inline-start: 65px;
+    margin-inline-end: 65px;
+}
